@@ -17,4 +17,8 @@ Our chosen dataset is titled "Weekly Provisional Counts of Deaths by State and S
 
 The data is divided up by year (ranging from 2020-2023) and further specified by the week. The "Jurisdiction" column of the dataset refers to the geographic location of where these deaths occurred. The death counts are first grouped by the United States and then categorized by state. Each row has the location of occurrence, the week of the year, the total count of deaths for all causes, and then the number of deaths for the individual causes. 
 
-Through this information, we are able to analyze the cause of death trends and draw conclusions relating to the various factors that may have impacted these values.
+Through this information, we can analyze the cause of death trends and draw conclusions relating to the various factors that may have impacted these values.
+
+## Question 1
+How do mortality trends for COVID-19 and Influenza compare across different states from 2020-2023?
+

@@ -22,9 +22,8 @@ How do mortality trends for COVID-19 and Influenza & Pneumonia compare across di
 
 **IMAGE
 
-We chose to represent this question visually through two bar graphs. Each bar is one of the fifty states and each year is represented by a different color on each bar. From the graph, we can see that mortality trends for both diseases are declining, reflecting the impact of public health interventions (e.g. vaccines and awareness campaigns). Mortality rates are higher in densely populated states and lower in states with fewer people, emphasizing regional differences. California, Florida, and Texas had the highest mortality rates for both causes and this could be attributed to their population size. (**ADD STATISTIC)
+We chose to represent this question visually through two bar graphs. Each bar is one of the fifty states and each year is represented by a different color on each bar.
 
-COVID-19 is a novel virus, resulting in much higher mortality rates across all states. Influenza is a seasonal disease with established vaccines and treatments, leading to lower or zero mortality in some states.
 
 **IMPORTANCE WITH EVIDENCE
 
@@ -35,13 +34,14 @@ What are the top five causes of death for the Southeast region compared to the U
 
 We visualized this question through two line graphs combined through the Dashboard feature on Tableau; the top graph represented the Southeast region and the bottom graph represented the United States. The top five causes were natural causes, diseases of the heart, malignant neoplasms, COVID-19 as a multiple cause of death, and COVID-19 as an underlying cause of death. The states we included in the Southeast region were Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Tennessee. 
 
-Natural causes maintain the leading causes of mortality throughout 2020-2023. COVID-19 spikes in 2020 and 2021, but tapers off in 2022 and 2023. Regardless, the deaths from natural causes, heart diseases, and malignant neoplasms were still higher than deaths from COVID-19. Diseases of the heart and malignant neoplasms (cancerous tumors) showed relatively consistent patterns over the course of the four years yet continued to be significant contributors to overall mortality. For each cause of death, there was a downward trend from 2023-2024, which could indicate better healthcare and a higher quality of overall health. The gap between COVID-19 deaths and other causes of death began to widen from the end of 2021 to 2023, which again could show the progress made on handling the pandemic within the country.
-
-In terms of the Southeast region itself, the trends within the region reflected the trends within the United States very similarly. The number of deaths in the Southeast made up around 10% of the deaths in the United States. 
-
 **IMPORTANCE WITH EVIDENCE
 
 ## Manipulations
 For our second question, we decided to only focus on the top five causes of mortality and filtered out the other nine causes. The mortality rates for the excluded nine causes were incredibly similar, and we found that this made our graphs look messy and hard to read. By only showing the top five causes we could understand the graph better and make better conclusions based off the results.
+
+## Analysis and Results
+In terms of question one, we can see that mortality trends for both diseases are declining, reflecting the impact of public health interventions (e.g. vaccines and awareness campaigns). Mortality rates are higher in densely populated states and lower in states with fewer people, emphasizing regional differences. California, Florida, and Texas had the highest mortality rates for both causes and this could be attributed to their population size. (**ADD STATISTIC) COVID-19 is a novel virus, resulting in much higher mortality rates across all states. Influenza is a seasonal diseases with established vaccines and treatments, leading to lower or zero mortality in some states.
+
+For our second question, natural causes maintain the leading causes of mortality throughout 2020-2023. COVID-19 spikes in 2020 and 2021, but tapers off in 2022 and 2023. Regardless, the deaths from natural causes, heart diseases, and malignant neoplasms were still higher than deaths from COVID-19. Diseases of the heart and malignant neoplasms (cancerous tumors) showed relatively consistent patterns over the course of the four years yet continued to be significant contributors to overall mortality. For each cause of death, there was a downward trend from 2023-2024, which could indicate better healthcare and a higher quality of overall health. The gap between COVID-19 deaths and other causes of death began to widen from the end of 2021 to 2023, which again could show the progress made on handling the pandemic within the country. In terms of the Southeast region itself, the trends within the region reflected the trends within the United States very similarly. The number of deaths in the Southeast made up around 10% of the deaths in the United States. 
 
 

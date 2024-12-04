@@ -51,6 +51,5 @@ For our second question, natural causes maintain the leading causes of mortality
 (https://www.prb.org/resources/which-us-states-are-the-oldest/)
 
 
-(https://www.prb.org/resources/which-us-states-are-the-oldest/)
 
 

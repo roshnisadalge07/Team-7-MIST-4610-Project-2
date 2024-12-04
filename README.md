@@ -20,8 +20,7 @@ Through this information, we can analyze the cause of death trends and draw conc
 ## Question 1
 How do mortality trends for COVID-19 and Influenza & Pneumonia compare across different states from 2020-2023?
 
-![image](https://github.com/user-attachments/assets/74f047c9-a6c9-4a8d-94e0-d69fa40f0a30)
-
+![image](https://github.com/user-attachments/assets/3d06f021-dcbc-48db-81d6-0db09d83f34b)
 
 
 We chose to represent this question visually through two bar graphs. Each bar is one of the fifty states and each year is represented by a different color on each bar.

@@ -24,8 +24,11 @@ How do mortality trends for COVID-19 and Influenza & Pneumonia compare across di
 
 We chose to represent this question visually through two bar graphs. Each bar is one of the fifty states and each year is represented by a different color on each bar.
 
+The comparison of COVID-19 and Influenza & Pneumonia mortality trends across states from 2020 to 2023, as represented in the graph, is an important question because it highlights variations in public health outcomes during overlapping pandemic years. A critical factor of this question lies in understanding the social determinants of health and their role in shaping public health outcomes. Geographic disparities in mortality rates can highlight how systemic factors—such as socioeconomic status, access to healthcare, and regional public health infrastructure—affect different populations. For example, according to an article by the CDC,  areas with higher poverty levels and lower access to healthcare experienced disproportionate impacts during the COVID-19 pandemic, with mortality trends reflecting these inequalities​.This question overall is socially significant because it sheds light on how systemic inequalities manifest geographically, impacting not just COVID-19 outcomes but also co-occurring illnesses like influenza and pneumonia, which share similar pathways in affecting vulnerable populations. 
 
-**IMPORTANCE WITH EVIDENCE
+This question is particularly interesting as it underscores potential disparities among states, which may relate to healthcare access, population density, policy differences, or public health responses during these years. Observing patterns such as higher mortality rates in certain states or notable changes from year to year can guide discussions about resource allocation, preparedness for respiratory illnesses, and long-term health strategies. Understanding such trends can provide insights into areas most impacted and inform strategies to mitigate future mortality rates.
+
+References: https://www.cdc.gov/pcd/issues/2022/21_0414.htm
 
 ## Question 2
 What are the top five causes of death for the Southeast region compared to the United States, and how have these trends evolved over the years?

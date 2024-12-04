@@ -28,8 +28,6 @@ The comparison of COVID-19 and Influenza & Pneumonia mortality trends across sta
 
 This question is particularly interesting as it underscores potential disparities among states, which may relate to healthcare access, population density, policy differences, or public health responses during these years. Observing patterns such as higher mortality rates in certain states or notable changes from year to year can guide discussions about resource allocation, preparedness for respiratory illnesses, and long-term health strategies. Understanding such trends can provide insights into areas most impacted and inform strategies to mitigate future mortality rates.
 
-References: https://www.cdc.gov/pcd/issues/2022/21_0414.htm
-
 ## Question 2
 What are the top five causes of death for the Southeast region compared to the United States, and how have these trends evolved over the years?
 
@@ -37,7 +35,7 @@ What are the top five causes of death for the Southeast region compared to the U
 
 We visualized this question through two line graphs combined through the Dashboard feature on Tableau; the top graph represented the Southeast region and the bottom graph represented the United States. The top five causes were natural causes, diseases of the heart, malignant neoplasms, COVID-19 as a multiple cause of death, and COVID-19 as an underlying cause of death. The states we included in the Southeast region were Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Tennessee. 
 
-This question is important because identifying evolving patterns in causes of death can help in strategizing future healthcare policies. Healthcare professionals can understand the most prevalent causes of death and work towards advancing healthcare to lower these numbers. The American Heart Association discusses some of the advances made in the year of 2023 to held reduce the risk of cardiovascular diseases. For example, healthcare professionals are working with a new drug would help prevent the presence of hypertension which could consequently lower the number of heart attacks. Advances such as these could explain why we are seeing a downward trend in mortality rates. 
+This question is important because identifying evolving patterns in causes of death can help in strategizing future healthcare policies. Healthcare professionals can understand the most prevalent causes of death and work towards advancing healthcare to lower these numbers. The American Heart Association discusses some of the advances made in the year of 2023 to held reduce the risk of cardiovascular diseases. For example, healthcare professionals are working with a new drug would help prevent the presence of hypertension which could consequently lower the number of heart attacks. Advances such as these could explain why we are seeing a downward trend in mortality rates. Separating the data by region adds interest to the question as it allows us to identify any difference between different parts of the United States.
 
 ## Manipulations
 For our second question, we decided to only focus on the top five causes of mortality and filtered out the other nine causes. The mortality rates for the excluded nine causes were incredibly similar, and we found that this made our graphs look messy and hard to read. By only showing the top five causes we could understand the graph better and make better conclusions based off the results.
@@ -48,7 +46,11 @@ In terms of question one, we can see that mortality trends for both diseases are
 For our second question, natural causes maintain the leading causes of mortality throughout 2020-2023. COVID-19 spikes in 2020 and 2021, but tapers off in 2022 and 2023. Regardless, the deaths from natural causes, heart diseases, and malignant neoplasms were still higher than deaths from COVID-19. Diseases of the heart and malignant neoplasms (cancerous tumors) showed relatively consistent patterns over the course of the four years yet continued to be significant contributors to overall mortality. For each cause of death, there was a downward trend from 2023-2024, which could indicate better healthcare and a higher quality of overall health. The gap between COVID-19 deaths and other causes of death began to widen from the end of 2021 to 2023, which again could show the progress made on handling the pandemic within the country. In terms of the Southeast region itself, the trends within the region reflected the trends within the United States very similarly. The number of deaths in the Southeast made up around 10% of the deaths in the United States. 
 
 ## Sources
+(https://www.cdc.gov/pcd/issues/2022/21_0414.htm)
 (https://www.heart.org/en/around-the-aha/aha-names-top-advances-in-cardiovascular-disease-research-for-2023)
+(https://www.prb.org/resources/which-us-states-are-the-oldest/)
+
+
 (https://www.prb.org/resources/which-us-states-are-the-oldest/)
 
 

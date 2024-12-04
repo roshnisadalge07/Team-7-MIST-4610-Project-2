@@ -33,7 +33,8 @@ This question is particularly interesting as it underscores potential disparitie
 ## Question 2
 What are the top five causes of death for the Southeast region compared to the United States, and how have these trends evolved over the years?
 
-**IMAGE
+![image](https://github.com/user-attachments/assets/19927928-f7dd-417f-b62f-8e76691c2d05)
+
 
 We visualized this question through two line graphs combined through the Dashboard feature on Tableau; the top graph represented the Southeast region and the bottom graph represented the United States. The top five causes were natural causes, diseases of the heart, malignant neoplasms, COVID-19 as a multiple cause of death, and COVID-19 as an underlying cause of death. The states we included in the Southeast region were Alabama, Florida, Georgia, Mississippi, North Carolina, South Carolina, and Tennessee. 
 
